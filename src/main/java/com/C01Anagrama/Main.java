@@ -1,4 +1,4 @@
-package comC01Anagrama;
+package com.C01Anagrama;
 
 /*
 * RETO #1
