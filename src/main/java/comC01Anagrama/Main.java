@@ -36,7 +36,7 @@ public class Main {
     public static void main(String[] args) {
 
         String p1 = "sergio";
-        String p2 = "riesgu";
+        String p2 = "riesgo";
         System.out.println(isAnagram(p1,p2));
 
     }
